@@ -1,6 +1,6 @@
 import React from "react";
 
-const Item= ({name, quantity, category}) => {
+const Item= ({name, quantity , category}) => {
     return( 
         <li>
             <div className="inline-flex flex-col w-auto bg-blue-950 p-4 m-3">
